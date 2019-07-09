@@ -1,0 +1,17 @@
+body {
+	background: url(header.jpg);
+}
+
+.jumbotron {
+	background: none;
+}
+
+.jumbotron p {
+	color: white;
+}
+
+.jumbotron h1 {
+	color: white;
+}
+
+
